@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>WQA</name>
+      <longname>Wars of the Quill alphatest</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Inkwell</name>
+      <set rarity="">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - Inkwell</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A deck can have any number of cards named Inkwell.</text>
+    </card>
+    <card>
+      <name>Comedy Mask</name>
+      <set rarity="">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - ComedyMask</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A deck can have any number of cards named Comedy Mask.
+At the end of your turn, destroy Comedy Mask and create a Tragedy Mask token.</text>
+    </card>
+    <card>
+      <name>Tragedy Mask</name>
+      <set rarity="">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - TragedyMask</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A deck can have any number of cards named Tragedy Mask.
+At the end of your turn, destroy Tragedy Mask and create a Comedy Mask token.</text>
+    </card>
+    <card>
+      <name>Venumar</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: 2 Ink: Put a Transcendence counter on Venumar.
+Attack Ability: 3 Ink: Venumar deals 2 damage to target attackable creation. Then if that creation has no Transcendence counters on it, Venumar deals 1 more damage to it.</text>
+    </card>
+    <card>
+      <name>Inkeye</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: 2 Ink: Put a Transcendence counter on Inkeye. Look at the top card of your deck. You may put it on the bottom of your deck.</text>
+    </card>
+    <card>
+      <name>Puppetear</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Transcend Ability: 1 Comedy: Put a Transcendence counter on Puppetear. Trigger the end of turn ability of a Comedy attached to Puppetear.
+Transcend Ability: 3 Comedy: Put two Transcendence counters on Puppetear.
+Attack Ability: 1 Tragedy: Puppetear deals 1 damage to target attackable creation. Trigger the end of turn ability of a Comedy attached to Puppetear.
+Attack Ability: 3 Tragedy: Puppetear deals 3 damage to target attackable creation.</text>
+    </card>
+    <card>
+      <name>Protagonor</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: 2 Ink: Put two Transcendence counters on Protagonor.
+Attack Ability: 2 Ink: Protagonor deals 1 damage to target attackable creation.</text>
+    </card>
+    <card>
+      <name>Antagonor</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: 2 Ink: Put a Transcendence counter on Antagonor.
+Attack Ability: 2 Ink: Antagonor deals 2 damage to target attackable creation.</text>
+    </card>
+    <card>
+      <name>Roosterror</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If another creation you control would deal damage to a creation, it deals that much damage plus 1 instead.
+Transcend Ability: 2 Ink: Put a Transcendence counter on Roosterror.
+Attack Ability: 2 Ink: Roosterror deals 1 damage to target attackable creation.</text>
+    </card>
+    <card>
+      <name>Study</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw two cards.</text>
+    </card>
+    <card>
+      <name>The Ink Stares Back</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As a cost to play this card, discard three cards and destroy a creation you control.
+Search your deck for any number of Inkwell cards, put them into your play zone, then shuffle. They can’t be attached this turn.</text>
+    </card>
+    <card>
+      <name>Research</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As a cost to play this card, destroy a medium card you control.
+Draw three cards.</text>
+    </card>
+    <card>
+      <name>Forbidden Knowledge</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As a cost to play this card, destroy two creation cards you control.
+Draw three cards.</text>
+    </card>
+    <card>
+      <name>Accelerate</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Put a transcendence counter on target creation you control. It can’t fully transcend from counters put on it this turn. (They still count towards full transcendence later.)</text>
+    </card>
+    <card>
+      <name>Wrath and Ruin</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw a card.
+This turn, if a creation leaves a play zone, destroy all mediums that were attached to it.</text>
+    </card>
+    <card>
+      <name>Search</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Look at the top three cards of your deck. Put one of them into your hand and the rest on the bottom of your deck in any order.</text>
+    </card>
+    <card>
+      <name>Purchase Mediums</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As a cost to play this card, discard a card.
+Search your deck for up to two Medium cards, reveal them, and put them into your hand.</text>
+    </card>
+    <card>
+      <name>Ruin</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Destroy two target Mediums.</text>
+    </card>
+    <card>
+      <name>Consumtoad</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: 1 Ink: As a cost to activate this ability, destroy any number of mediums attached to Consumtoad. Put a Transcendence counter on Consumtoad for every second medium destroyed this way.
+Attack Ability: 2 Ink: Consumtoad deals 1 damage to target attackable creation.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Comedy Mask [Token] WQA</name>
+      <set>WQA</set>
+      <prop>
+        <colors>B</colors>
+        <type>Basic Medium - ComedyMask</type>
+        <maintype>Medium</maintype>
+        <notes>!token
+!related Tragedy Mask;Tragedy Mask [Token]</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A deck can have any number of cards named  Comedy Mask.
+At the end of your turn, destroy Comedy Mask and create a Tragedy Mask token.</text>
+      <token>1</token>
+      <reverse-related>Tragedy Mask</reverse-related>
+      <reverse-related>Tragedy Mask [Token]</reverse-related>
+    </card>
+    <card>
+      <name>Tragedy Mask [Token] WQA</name>
+      <set>WQA</set>
+      <prop>
+        <colors>B</colors>
+        <type>Basic Medium - TragedyMask</type>
+        <maintype>Medium</maintype>
+        <notes>!token
+!related Comedy Mask;Comedy Mask [Token]</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A deck can have any number of cards named Tragedy Mask.
+At the end of your turn, destroy Tragedy Mask and create a Comedy Mask token.</text>
+      <token>1</token>
+      <reverse-related>Comedy Mask</reverse-related>
+      <reverse-related>Comedy Mask [Token]</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
