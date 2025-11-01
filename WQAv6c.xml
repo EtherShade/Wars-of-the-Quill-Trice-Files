@@ -142,6 +142,7 @@ Attack Ability: 3 Tragedy: Puppetear deals 3 damage to target attackable creatio
       <tablerow>1</tablerow>
       <text>Ascendant (This creation can use a transcend ability the turn it’s played.)
 Transcend Ability: 2 Ink: Put a Transcendence counter on Protagonor.
+Transcend Ability: 4 Ink: Put two Transcendence counters on Protagonor.
 Attack Ability: 2 Ink: Protagonor deals 1 damage to target attackable creation.</text>
     </card>
     <card>
@@ -162,7 +163,8 @@ Attack Ability: 2 Ink: Protagonor deals 1 damage to target attackable creation.<
       <tablerow>1</tablerow>
       <text>Aggressive (This creation can use an attack ability the turn it’s played.)
 Transcend Ability: 2 Ink: Put a Transcendence counter on Antagonor.
-Attack Ability: 2 Ink: Antagonor deals 2 damage to target attackable creation.</text>
+Attack Ability: 2 Ink: Antagonor deals 1 damage to target attackable creation.
+Attack Ability: 4 Ink: Antagonor deals 2 damage to target attackable creation.</text>
     </card>
     <card>
       <name>Roosterror</name>
@@ -180,7 +182,7 @@ Attack Ability: 2 Ink: Antagonor deals 2 damage to target attackable creation.</
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>If another creation you control would deal damage to a creation, it deals that much damage plus 1 instead.
+      <text>As long as there are four or more mediums attached to Roosterror, if another creation you control would deal damage to a creation, it deals that much damage plus 1 instead.
 Transcend Ability: 2 Ink: Put a Transcendence counter on Roosterror.
 Attack Ability: 2 Ink: Roosterror deals 1 damage to target attackable creation.</text>
     </card>
