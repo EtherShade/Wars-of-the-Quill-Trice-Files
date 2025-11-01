@@ -82,6 +82,7 @@ At the end of your turn, destroy Tragedy Mask and create a Comedy Mask token.</t
       </prop>
       <tablerow>1</tablerow>
       <text>Transcend Ability: 2 Ink: Put a Transcendence counter on Venumar.
+Transcend Ability: 4 Ink: Put two Transcendence counters on Venumar.
 Attack Ability: 3 Ink: Venumar deals 1 damage to target attackable creation. Then if that creation has no Transcendence counters on it, Venumar deals 1 more damage to it.</text>
     </card>
     <card>
@@ -100,7 +101,8 @@ Attack Ability: 3 Ink: Venumar deals 1 damage to target attackable creation. The
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Transcend Ability: 2 Ink: Put a Transcendence counter on Inkeye. Draw a card.</text>
+      <text>Transcend Ability: 2 Ink: Put a Transcendence counter on Inkeye. Look at the top card of your deck. You may put it on the bottom of your deck.
+Transcend Ability: 4 Ink: Put two Transcendence counters on Inkeye. Draw a card.</text>
     </card>
     <card>
       <name>Puppetear</name>
@@ -120,9 +122,9 @@ Attack Ability: 3 Ink: Venumar deals 1 damage to target attackable creation. The
       <tablerow>1</tablerow>
       <text>
 Transcend Ability: 1 Comedy: Put a Transcendence counter on Puppetear. Trigger the end of turn ability of a Comedy.
-Transcend Ability: 3 Comedy: Put two Transcendence counters on Puppetear.
+Transcend Ability: 5 Comedy: Put two Transcendence counters on Puppetear.
 Attack Ability: 1 Tragedy: Puppetear deals 1 damage to target attackable creation. Trigger the end of turn ability of a Tragedy.
-Attack Ability: 3 Tragedy: Puppetear deals 3 damage to target attackable creation.</text>
+Attack Ability: 5 Tragedy: Puppetear deals 2 damage to target attackable creation.</text>
     </card>
     <card>
       <name>Protagonor</name>
@@ -202,7 +204,7 @@ Attack Ability: 2 Ink: Roosterror deals 1 damage to target attackable creation.<
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Draw a card. Reserve the top two cards of your deck.</text>
+      <text>Reserve the top three cards of your deck.</text>
     </card>
     <card>
       <name>The Ink Stares Back</name>
@@ -295,7 +297,7 @@ This turn, if a creation leaves a play zone, destroy all mediums that were attac
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Look at the top three cards of your deck. Put one of them into your hand and the rest on the bottom of your deck in any order.</text>
+      <text>Look at the top three cards of your deck. Reserve one of them and put the rest on the bottom of your deck in any order.</text>
     </card>
     <card>
       <name>Purchase Mediums</name>
@@ -332,11 +334,11 @@ Search your deck for up to two Medium cards, reveal them, and put them into your
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Destroy target Medium.</text>
+      <text>Destroy target Medium you don’t control and target Medium you control.</text>
     </card>
     <card>
       <name>Consumptoad</name>
-      <set rarity="common">WQA</set>
+      <set rarity="uncommon">WQA</set>
       <prop>
         <colors>W</colors>
         <color>W</color>
@@ -407,7 +409,7 @@ Draw three cards.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Put two cards from your reserve into your hand.</text>
+      <text>Put three cards from your reserve into your hand.</text>
     </card>
     <card>
       <name>Defensive Stance</name>
@@ -484,6 +486,7 @@ Draw three cards.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Transcend Ability: 2 Ink: Put a Transcendence counter on Squirius. Reserve the top card of your deck.
+Transcend Ability: 4 Ink: Put two Transcendence counters on Squirius. Reserve the top card of your deck.
 Attack Ability: 3 Ink: Squirius deals 1 damage to target attackable creation. Put a card from your reserves into your hand.</text>
     </card>
     <card>
@@ -542,6 +545,7 @@ Attack Ability: 2 Ink: Banneroar deals 1 damage to target attackable creation.</
       </prop>
       <tablerow>1</tablerow>
       <text>Transcend Ability: 1 Ink: Put a Transcendence counter on another creation you control.
+Transcend Ability: 3 Ink: Put a Transcendence counter on Blessink and another creation you control.
 Attack Ability: 2 Ink: Blessink deals 1 damage to target attackable creation.</text>
     </card>
     <card>
@@ -562,6 +566,7 @@ Attack Ability: 2 Ink: Blessink deals 1 damage to target attackable creation.</t
       <tablerow>1</tablerow>
       <text>
 Transcend Ability: 2 Comedy: Put a Transcendence counter on Curtainyx.
+Transcend Ability: 4 Comedy: Put a Transcendence counter on Curtainyx and another creation you control.
 Attack Ability: 2 Tragedy: Curtainyx deals 1 damage to target attackable creation. Trigger the end of turn ability of a Comedy.</text>
     </card>
     <card>
@@ -603,6 +608,7 @@ Attack Ability: 4 Ink: Plausiblade deals X damage to target attackable creation,
       <tablerow>1</tablerow>
       <text>
 Transcend Ability: 2 Comedy: Put a Transcendence counter on another creation you control.
+Transcend Ability: 3 Comedy: Put a Transcendence counter on another creation you control.
 Attack Ability: 2 Tragedy: Trigger the end of turn ability of a Tragedy.</text>
     </card>
     <card>
@@ -855,6 +861,7 @@ Put the top four cards of your deck into your discard pile.</text>
       <tablerow>1</tablerow>
       <text>Amnesia (You may play this card from your discard pile if it was put there from your deck this turn.)
 Transcend Ability: 2 Ink: Put a Transcendence counter on Forgetoad. Put the top card of your deck into your discard pile.
+Transcend Ability: 4 Ink: Put two Transcendence counters on Forgetoad.
 Attack Ability: 2 Ink: Forgetoad deals 1 damage to target attackable creation. Reserve a card from your discard pile.</text>
     </card>
     <card>
@@ -934,6 +941,7 @@ Attack Ability: 3 Ink: As a cost to activate this ability, void any number of ca
       <tablerow>1</tablerow>
       <text>Amnesia (You may play this card from your discard pile if it was put there from your deck this turn.)
 Transcend Ability: 2 Ink: Put a Transcendence counter on another creation you control. Shuffle a card from your discard pile into your deck.
+Transcend Ability: 4 Ink: Put two Transcendence counters on another creation you control. Shuffle a card from your discard pile into your deck.
 Transcend Ability: 4 Ink: Put two Transcendence counters on another creation you control. Shuffle two cards from your discard pile into your deck.</text>
     </card>
     <card>
@@ -1048,7 +1056,7 @@ As a cost for Bloodwell to provide Ink, destroy a creation you control.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>As a cost to play Inferno, return three mediums you control to your hand.
+      <text>As a cost to play Inferno, return two mediums you control to your hand.
 Destroy all creatures.</text>
     </card>
     <card>
