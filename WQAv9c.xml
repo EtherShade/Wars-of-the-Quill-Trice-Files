@@ -263,25 +263,6 @@ Draw three cards.</text>
       <text>Put a Transcendence counter on target creation you control that didn’t enter this turn. It can’t fully transcend from counters put on it this turn. (They still count towards full transcendence later.)</text>
     </card>
     <card>
-      <name>Wrath and Ruin</name>
-      <set rarity="uncommon">WQA</set>
-      <prop>
-        <colors>U</colors>
-        <color>U</color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Tactic</type>
-        <maintype>Tactic</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Draw a card.
-This turn, if a creation leaves a play zone, destroy all mediums that were attached to it.</text>
-    </card>
-    <card>
       <name>Search</name>
       <set rarity="common">WQA</set>
       <prop>
@@ -316,7 +297,7 @@ This turn, if a creation leaves a play zone, destroy all mediums that were attac
       </prop>
       <tablerow>1</tablerow>
       <text>As a cost to play this card, discard a card.
-Search your deck for up to two Medium cards, reveal them, and put them into your hand.</text>
+Search your deck for up to two medium cards, reveal them, and put them into your hand.</text>
     </card>
     <card>
       <name>Ruin</name>
@@ -506,7 +487,7 @@ Attack Ability: 3 Ink: Squirius deals 1 damage to target attackable creation. Pu
       </prop>
       <tablerow>1</tablerow>
       <text>Tempo (You can’t play cards with tempo if you’ve played a card that shares a card name with them this turn.)
-Play Inksight only if you control two or more Inkwells.
+Play Inksight only if you control four or more Inkwells.
 Draw two cards.</text>
     </card>
     <card>
@@ -666,7 +647,7 @@ Modified creation can’t use transcend abilities.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Reactive (May be played or activated anytime you have priority.)
-Play Inkseep only if you control two or more Inkwells.
+Play Inkseep only if you control four or more Inkwells.
 Target non-Medium non-Creation card being played is put into its owner’s discard pile.
 Draw a card.</text>
     </card>
@@ -765,7 +746,7 @@ Modified medium is every medium subtype.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Modifies creation
-Modified creation’s attack abilities require 2 less Ink.</text>
+Inky Combativeness provides 2 Ink to modified creation. Use this Ink only for attack abilities.</text>
     </card>
     <card>
       <name>Inky Vision</name>
@@ -784,7 +765,7 @@ Modified creation’s attack abilities require 2 less Ink.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Modifies creation
-Modified creation’s transcend abilities require 2 less Ink.</text>
+Inky Vision provides 2 Ink to modified creation. Use this Ink only for transcend abilities.</text>
     </card>
     <card>
       <name>Inky Balance</name>
@@ -803,7 +784,7 @@ Modified creation’s transcend abilities require 2 less Ink.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Modifies creation
-Modified creation’s transcend and attack abilities require 1 less Ink.</text>
+Inky Balance provides 1 Ink to modified creation.</text>
     </card>
     <card>
       <name>Meaningless Search</name>
@@ -822,7 +803,7 @@ Modified creation’s transcend and attack abilities require 1 less Ink.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Amnesia (You may play this card from your discard pile if it was put there from your deck this turn.)
-Look at the top two cards of your deck. Put one of them into your hand and the rest into your discard pile.</text>
+Look at the top two cards of your deck. Reserve one of them and put the rest into your discard pile.</text>
     </card>
     <card>
       <name>Blunder</name>
@@ -900,8 +881,8 @@ You can’t attach Forgotten Inkwell the turn it enters.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>Amnesia (You may play this card from your discard pile if it was put there from your deck this turn.)
-Draw a card.
-Put the top two cards of your deck into your discard pile.</text>
+Put the top two cards of your deck into your discard pile.
+If this card was played from a discard pile, draw a card.</text>
     </card>
     <card>
       <name>Mimesislug</name>
@@ -921,7 +902,7 @@ Put the top two cards of your deck into your discard pile.</text>
       <tablerow>1</tablerow>
       <text>Amnesia (You may play this card from your discard pile if it was put there from your deck this turn.)
 Transcend Ability: 2 Ink: Put a Transcendence counter on another creation you control. Put the top two cards of your deck into your discard pile.
-Attack Ability: 3 Ink: As a cost to activate this ability, void any number of cards from your discard pile. Mimesislug deals 1 damage to target attackable creation for every second card voided this way.</text>
+Attack Ability: 3 Ink: As a cost to activate this ability, void up to four of cards from your discard pile. Mimesislug deals 1 damage to target attackable creation for every second card voided this way.</text>
     </card>
     <card>
       <name>Remembrain</name>
@@ -1253,7 +1234,26 @@ Attack Ability: 3 Tragedy: Tragedeus deals 1 damage to target attackable creatio
       </prop>
       <tablerow>1</tablerow>
       <text>Used Inkwell provides 2 Ink instead of 1.
-As a cost for Used Inkwell to provide Ink, destroy Used Inkwell.</text>
+At the end of your turn, destroy Used Inkwell if it’s attached to a creation.</text>
+    </card>
+    <card>
+      <name>Interrupt</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+Detach up to three mediums from target creation.</text>
     </card>
 
     <!-->Tokens</-->
