@@ -356,25 +356,6 @@ Attack Ability: 2 Ink: Consumptoad deals 1 damage to target attackable creation.
 Target non-Medium card being played is put into its owner’s discard pile.</text>
     </card>
     <card>
-      <name>Research</name>
-      <set rarity="common">WQA</set>
-      <prop>
-        <colors>U</colors>
-        <color>U</color>
-        <manacost></manacost>
-        <cost></cost>
-        <mana></mana>
-        <cmc>0</cmc>
-        <mv>0</mv>
-        <type>Tactic</type>
-        <maintype>Tactic</maintype>
-        <notes></notes>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>As a cost to play this card, destroy a medium card you control.
-Draw three cards.</text>
-    </card>
-    <card>
       <name>Retrieve</name>
       <set rarity="common">WQA</set>
       <prop>
@@ -390,7 +371,7 @@ Draw three cards.</text>
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>Put three cards from your reserve into your hand.</text>
+      <text>Put two cards from your reserve into your hand.</text>
     </card>
     <card>
       <name>Defensive Stance</name>
@@ -447,8 +428,8 @@ Attack Ability: 2 Ink: Calculaw deals 1 damage to target attackable creation.</t
         <notes></notes>
       </prop>
       <tablerow>1</tablerow>
-      <text>As a cost to play this card, put two cards from your reserve into your discard pile.
-Draw three cards.</text>
+      <text>As a cost to play this card, put four cards from your reserve into your discard pile.
+Draw two cards.</text>
     </card>
     <card>
       <name>Squirius</name>
@@ -726,7 +707,7 @@ Up to four target creations can’t use transcend abilities this turn.</text>
       <tablerow>1</tablerow>
       <text>Tempo (You can’t play cards with tempo if you’ve played a card that shares a card name with them this turn.)
 Modifies medium
-When Artmorphing enters a play zone, draw a card.
+When Artmorphing enters a play zone, reserve the top card of your deck.
 Modified medium is every medium subtype.</text>
     </card>
     <card>
@@ -942,7 +923,7 @@ Transcend Ability: 4 Ink: Put two Transcendence counters on another creation you
       </prop>
       <tablerow>1</tablerow>
       <text>Malore requires 1 more Transcendence counters to fully transcend.
-Whenever a tactic you control resolves, put a Transcendence counter on Malore.
+Whenever a tactic you control resolves, if Malore didn’t enter a play zone this turn, put a Transcendence counter on Malore.
 At the start of your turn, remove all Transcendence counters from Malore.
 Transcend Ability: 2 Ink: Draw a card.</text>
     </card>
@@ -1038,7 +1019,7 @@ As a cost for Bloodwell to provide Ink, destroy a creation you control.</text>
       </prop>
       <tablerow>1</tablerow>
       <text>
-Play Inferno only if you control four or more Mediums.
+Play Inferno only if you control four or more mediums.
 As a cost to play Inferno, return two mediums you control to your hand.
 Destroy all creatures.</text>
     </card>
