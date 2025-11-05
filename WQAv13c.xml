@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>WQA</name>
+      <longname>Wars of the Quill alphatest</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Inkwell</name>
+      <set rarity="">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - Inkwell</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Inkwells provide {I}.)
+A deck can have any number of cards named Inkwell.</text>
+    </card>
+    <card>
+      <name>Theater Mask</name>
+      <set rarity="">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - Mask</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(You may have Masks enter as a ComedyMask or TragedyMask. Swap them at the start of your turn. ComedyMasks provide {C}. TragedyMasks provide {T}.)
+A deck can have any number of cards named Theater Mask.</text>
+    </card>
+    <card>
+      <name>Puppetear</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Transcend Ability: {C}: Puppetear transcends 1. You may trigger the start of turn ability of a ComedyMask.
+Transcend Ability: CCCCC: Puppetear transcends 2.
+Attack Ability: {T}: Puppetear attacks 1. You may trigger the start of turn ability of a TragedyMask.
+Attack Ability: TTTTT: Puppetear attacks 2.</text>
+    </card>
+    <card>
+      <name>Roosterror</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As long as there are four or more mediums attached to Roosterror, if another creation you control would deal damage to a creation, it deals that much damage plus 1 instead.
+Transcend Ability: AI: Roosterror transcends 1.
+Attack Ability: AI: Roosterror attacks 1.</text>
+    </card>
+    <card>
+      <name>The Ink Stares Back</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As a cost to play this card, discard three cards and destroy a creation you control.
+Search your deck for any number of Inkwell cards, put them into your play zone, then shuffle. They can’t be attached this turn.</text>
+    </card>
+    <card>
+      <name>Accelerate</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Put a Transcendence counter on target creation you control that didn’t enter this turn. It can’t fully transcend from counters put on it this turn. (They still count towards full transcendence later.)</text>
+    </card>
+    <card>
+      <name>Ruin</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Destroy target Medium you don’t control and target Medium you control.</text>
+    </card>
+    <card>
+      <name>Consumptoad</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: {I}: As a cost to activate this ability, destroy any number of mediums attached to Consumptoad. Consumptoad transcends 1 for each medium destroyed this way.
+Attack Ability: AI: Consumptoad attacks 1.</text>
+    </card>
+    <card>
+      <name>Defensive Stance</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+Put a Transcendence counter on target creation you control that’s being attacked. It can’t fully transcend from counters put on it this turn. (They still count towards full transcendence later.)</text>
+    </card>
+    <card>
+      <name>Calculaw</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend abilities can’t put more than one Transcendence counter on  a creation.
+Transcend Ability: AI: Calculaw transcends 1.
+Attack Ability: AI: Calculaw attacks 1.</text>
+    </card>
+    <card>
+      <name>Expensive Research</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As a cost to play this card, put four cards from your reserve into your discard pile.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Squirius</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: AI: Squirius transcends 1. Reserve the top card of your deck.
+Transcend Ability: AAII: Squirius transcends 2. Reserve the top card of your deck.
+Attack Ability: AAI: Squirius attacks 1. Put a card from your reserves into your hand.</text>
+    </card>
+    <card>
+      <name>Inksight</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Play Inksight only if you control two or more Inkwells.
+Play Inksight only if you control four or more Mediums.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>Banneroar</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: AAII: Put a Transcendence counter on each other creation you control.
+Attack Ability: AI: Each other creation you control transcends 1.</text>
+    </card>
+    <card>
+      <name>Plausiblade</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Ascendant (This creation can use a transcend ability the turn it’s played.)
+Plausiblade can’t fully transcend.
+Transcend Ability: AI: Put three Transcendence counters on Plausiblade.
+Attack Ability: AAII: Plausiblade attacks X, where X is the number of Transcendence counters on it.</text>
+    </card>
+    <card>
+      <name>Inkseep</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+Play Inkseep only if you control two or more Inkwells.
+Play Inkseep only if you control four or more Mediums.
+Target non-Medium non-Creation card being played is put into its owner’s discard pile.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Fair Play</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+Up to four target creations can’t use attack abilities this turn.</text>
+    </card>
+    <card>
+      <name>Imperfection</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+Up to four target creations can’t use transcend abilities this turn.</text>
+    </card>
+    <card>
+      <name>Artmorphing</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Modifier</type>
+        <maintype>Modifier</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Modifies medium
+When Artmorphing enters a play zone, reserve the top card of your deck.
+Modified medium is every medium subtype.</text>
+    </card>
+    <card>
+      <name>Inky Combativeness</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Modifier</type>
+        <maintype>Modifier</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Modifies creation
+Inky Combativeness provides II to modified creation. Use this {I} only for attack abilities.</text>
+    </card>
+    <card>
+      <name>Inky Vision</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Modifier</type>
+        <maintype>Modifier</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Modifies creation
+Inky Vision provides II to modified creation. Use this {I} only for transcend abilities.</text>
+    </card>
+    <card>
+      <name>Inky Balance</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Modifier</type>
+        <maintype>Modifier</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Modifies creation
+Inky Balance provides {I} to modified creation.</text>
+    </card>
+    <card>
+      <name>Blunder</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Put the top four cards of your deck into your discard pile.</text>
+    </card>
+    <card>
+      <name>Malore</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Malore requires 1 more Transcendence counters to fully transcend.
+Whenever a tactic you control resolves, if there are five or more Inkwells attached to Malore, put a Transcendence counter on Malore.
+At the start of your turn, remove all Transcendence counters from Malore.
+Transcend Ability: AI: Draw a card.</text>
+    </card>
+    <card>
+      <name>Doublix</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would create one or more tokens, you may create that many plus one of those tokens instead.
+Transcend Ability: {I}: Another creation you control transcends 1.</text>
+    </card>
+    <card>
+      <name>Duplicate</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Create a token that’s a copy of target creation you control.</text>
+    </card>
+    <card>
+      <name>Necrestore</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you destroy a creation you control, at end of turn, if their are three or more mediums attached to Necrestore, create a token that’s a copy of the destroyed creation.
+Transcend Ability: {L}: Another token creation you control transcends 2.</text>
+    </card>
+    <card>
+      <name>Bloodwell</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Medium - Inkwell</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Bloodwell provides II instead of {I}.
+As a cost for Bloodwell to provide Ink, destroy a creation you control.</text>
+    </card>
+    <card>
+      <name>Maskraft</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Transcend Ability: CC: Maskraft transcends 1. You may trigger the start of turn ability of a Tragedy.
+Transcend Ability: CCCC:  Maskraft and another creation you control each transcend 1. Put up to one Mask from your hand into your play zone.</text>
+    </card>
+    <card>
+      <name>Exeunt</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reactive (May be played or activated anytime you have priority.)
+Play Exeunt only if you control a ComedyMask and a TragedyMask.
+Return target creation you control and target creation you don’t control to their owners’ hands.</text>
+    </card>
+    <card>
+      <name>Leadette</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever one or more Transcendence counters are put on Leadette from an ability of another creation, put a Transcendence counter on Leadette for every third ComedyMask attached to it.
+Attack Ability: TT: Leadette attacks 1.</text>
+    </card>
+    <card>
+      <name>Anthemask</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Act (You may play this card with Act. If you do, it gains Aggressive and Ascendant and is returned to your hand at end of turn.)
+Transcend Ability: CCCC: Each other creation you control transcends 1.</text>
+    </card>
+    <card>
+      <name>Comedeus</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Comedeus enters your play zone, trigger the start of turn abilities of each TragedyMask you control.
+Transcend Ability: CCC: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus.</text>
+    </card>
+    <card>
+      <name>Tragedeus</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Tragedeus enters your play zone, trigger the start of turn abilities of each ComedyMask you control.
+Attack Ability: TTT: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus.</text>
+    </card>
+    <card>
+      <name>Used Inkwell</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Medium - Inkwell</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Used Inkwell provides II instead of {I}.
+At the end of your turn, destroy Used Inkwell if it’s attached to a creation.</text>
+    </card>
+    <card>
+      <name>Mask of Life</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Medium - ComedyMask</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Swap between ComedyMask and TragedyMask at the start of your turn. ComedyMasks provide {C}. TragedyMasks provide {T}.)
+When Mask of Life enters your play zone, draw a card.</text>
+    </card>
+    <card>
+      <name>Mask of Death</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Medium - TragedyMask</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Swap between ComedyMask and TragedyMask at the start of your turn. ComedyMasks provide {C}. TragedyMasks provide {T}.)
+When Mask of Death enters your play zone, draw a card.</text>
+    </card>
+    <card>
+      <name>Music Note</name>
+      <set rarity="">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - MusicNote</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(MusicNotes provide {N}. As you reserve a MusicNote, you may turn it face up as a composed note.)
+A deck can have any number of cards named Music Note.</text>
+    </card>
+    <card>
+      <name>Bassdrop</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Play Bassdrop only if you control four or more mediums.
+Put three of your composed notes into your play zone. Destroy them at end of turn.</text>
+    </card>
+    <card>
+      <name>Soniclasm</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Soniclasm enters a play zone, you may trash one of your composed notes. If you do, it gains aggressive. (This creation can use an attack ability the turn it’s played.)
+Attack Ability: ANN: Soniclasm attacks 2.</text>
+    </card>
+    <card>
+      <name>Symphonor</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As long as there are three or more mediums attached to Symphonor and you have four or more composed notes, transcend abilities you use require 1 less {N}.
+Transcend Ability: AN: Symphonor transcends 1.
+Transcend Ability: AAAANN: Each of your creations transcends 1.</text>
+    </card>
+    <card>
+      <name>Crafty Composition</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As a cost to play this card, reveal two MusicNote cards from your hand and reserve them.
+Draw three cards.</text>
+    </card>
+    <card>
+      <name>Trebbletrash</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: ANN: Trash any number of your composed notes. Trebbletrash transcends X, where X is half the number of cards trashed this way, rounded down.
+Attack Ability: {N}: Trash any number of your composed notes. Trebbletrash attacks X, where X is half the number of cards trashed this way, rounded down.</text>
+    </card>
+    <card>
+      <name>Notate</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As a cost to play this, reserve a MusicNote you control.
+Look at the top four cards of your deck. Put one of them into your hand and put the rest on the bottom of your deck in any order.</text>
+    </card>
+    <card>
+      <name>Musical Stockpile</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reveal the top five cards of your deck. Reserve up to two MusicNote cards from among them and put the rest on the bottom of your deck in a random order. Then if no MusicNote cards were revealed this way, reserve the top card of your deck.</text>
+    </card>
+    <card>
+      <name>Rhythmaster</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Transcend Ability: AN: Another creation you control transcends 1.
+Transcend Ability: AAANNN: Another creation you control transcends 1. Draw a card for each of your composed notes.
+Attack Ability: {N}: Rhythmaster attacks 1.</text>
+    </card>
+    <card>
+      <name>Potion</name>
+      <set rarity="">WQA</set>
+      <prop>
+        <colors>B</colors>
+        <color>B</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Basic Medium - Potion</type>
+        <maintype>Medium</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Potions provide {L}. At normal speed, you may destroy three Potions you control to create an Elixir token.)
+A deck can have any number of cards named Potion.</text>
+    </card>
+    <card>
+      <name>Knightigrand</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Act (You may play this card with Act. If you do, it gains Aggressive and Ascendant and is returned to your hand at end of turn.)
+Transcend Ability: CC: Another creation you control transcends 1.
+Attack Ability: TTTT: Knightigrand attacks 2.</text>
+    </card>
+    <card>
+      <name>Knightivile</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Act (You may play this card with Act. If you do, it gains Aggressive and Ascendant and is returned to your hand at end of turn.)
+Transcend Ability: CCCC: Another creation you control transcends 2.
+Attack Ability: TT: Knightivile attacks 1.</text>
+    </card>
+    <card>
+      <name>Impyre</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend Ability: AL: Impyre transcends 1. Put the top card of your deck into your discard pile.
+Transcend Ability: AAALL: Impyre transcends 2. Put the top three cards of your deck into your discard pile.
+Attack Ability: AL: Impyre attacks 1. If a creation didn’t perish from that attack, reserve a card from your discard pile.</text>
+    </card>
+    <card>
+      <name>Zombug</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend + Attack Ability: LL: Zombug transcends 1 and attacks 1.</text>
+    </card>
+    <card>
+      <name>Lichisect</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend + Attack Ability: AAALLL: Lichisect transcends 1 and attacks 1. This turn, whenever you use a transcend + attack ability, copy it.</text>
+    </card>
+    <card>
+      <name>Ghoulog</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend + Attack Ability: AALL: Ghoulog transcends 1, then attacks X, where X is the number of Transcendence counters on it..</text>
+    </card>
+    <card>
+      <name>Alchemic Balance</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Modifier</type>
+        <maintype>Modifier</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Modifies creation
+Alchemic Balance provides {L} to modified creation.</text>
+    </card>
+    <card>
+      <name>Alchemic Combativeness</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Modifier</type>
+        <maintype>Modifier</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Modifies creation
+Alchemic Combativeness provides LL to modified creation. Use this {L} only for attack abilities.</text>
+    </card>
+    <card>
+      <name>Alchemic Vision</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>R</colors>
+        <color>R</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Modifier</type>
+        <maintype>Modifier</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Modifies creation
+Alchemic Vision provides LL to modified creation. Use this {L} only for transcend abilities.</text>
+    </card>
+    <card>
+      <name>Reanimate</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Play Reanimate only if you control an Elixir.
+As a cost to play this card, discard a card.
+Put target creation from your discard pile into your play zone. It transcends 1.</text>
+    </card>
+    <card>
+      <name>Vampyre</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend + Attack Ability: AL: Vampyre transcends 1 and attacks 1. Discard a card.</text>
+    </card>
+    <card>
+      <name>Sanguink</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Transcend + Attack Ability: IILL: Sanguink transcends 1 and attacks 1. Draw a card.</text>
+    </card>
+    <card>
+      <name>Sanguilord</name>
+      <set rarity="rare">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you discard a card, if there are four or more mediums attached to Sanguilord, draw a card.
+Transcend + Attack Ability: AAIILL: Sanguilord transcends X and attacks X, where X is half the number of cards in your hand, rounded down.</text>
+    </card>
+    <card>
+      <name>Inkidrain</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Transcend Ability: AAI: Inkidrain transcends 1. Draw a card.
+Transcend Ability: AAAII: Inkidrain transcends 1. Draw a card. Each opponent discards a card.
+Attack Ability: AAI: Inkidrain attacks 1. Each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Chaos Ritual</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Play Chaos Ritual only if you control an Elixir.
+Each player discards two cards. Draw a card.</text>
+    </card>
+    <card>
+      <name>Songuard</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>W</colors>
+        <color>W</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The first time Songuard would take damage each turn, if you have two or more composed notes, Songuard doesn’t take that damage.
+Transcend Ability: AN: Songuard transcends 1.
+Transcend Ability: AAAN: Songuard transcends 2.
+Attack Ability: AAN: Songuard attacks 1. If you have two or more composed notes, Songuard attacks 2 instead.</text>
+    </card>
+    <card>
+      <name>Revitalize</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Reserve a card from your discard pile.</text>
+    </card>
+    <card>
+      <name>Dual Masks</name>
+      <set rarity="common">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choose one —
+• If you control three or more ComedyMasks, put a Mask from your hand into your play zone as a TragedyMask.
+• If you control three or more TragedyMasks, put a Mask from your hand into your play zone as a ComedyMask.</text>
+    </card>
+    <card>
+      <name>Inferno</name>
+      <set rarity="uncommon">WQA</set>
+      <prop>
+        <colors>U</colors>
+        <color>U</color>
+        <manacost></manacost>
+        <cost></cost>
+        <mana></mana>
+        <cmc>0</cmc>
+        <mv>0</mv>
+        <type>Tactic</type>
+        <maintype>Tactic</maintype>
+        <notes></notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+Play Inferno only if you control four or more mediums.
+As a cost to play Inferno, return two mediums you control to your hand.
+Destroy all creatures.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Comedeus [Token]</name>
+      <set>WQA</set>
+      <prop>
+        <colors>W</colors>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes>!token
+!related Tragedeus;Tragedeus [Token]</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Comedeus enters your play zone, trigger the start of turn abilities of each TragedyMask you control.
+Transcend Ability: CCC: Comedeus transcends 1, then create a Tragedeus token and move all Transcendence counters from Comedeus to the created token. Destroy Comedeus.</text>
+      <token>1</token>
+      <reverse-related>Tragedeus</reverse-related>
+      <reverse-related>Tragedeus [Token]</reverse-related>
+    </card>
+    <card>
+      <name>Tragedeus [Token]</name>
+      <set>WQA</set>
+      <prop>
+        <colors>W</colors>
+        <type>Creation</type>
+        <maintype>Creation</maintype>
+        <notes>!token
+!related Comedeus;Comedeus [Token]</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Tragedeus enters your play zone, trigger the start of turn abilities of each ComedyMask you control.
+Attack Ability: TTT: Tragedeus attacks 1, then create a Comedeus token and move all Transcendence counters from Tragedeus to the created token. Destroy Tragedeus.</text>
+      <token>1</token>
+      <reverse-related>Comedeus</reverse-related>
+      <reverse-related>Comedeus [Token]</reverse-related>
+    </card>
+    <card>
+      <name>Elixir [Token]</name>
+      <set>WQA</set>
+      <prop>
+        <colors>B</colors>
+        <type>Basic Medium - Elixir</type>
+        <maintype>Medium</maintype>
+        <notes>!token
+!related Potion</notes>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>(Elixirs provide LL. When an Elixir is used to use a transcend or attack ability, reserve a card from your discard pile.)</text>
+      <token>1</token>
+      <reverse-related>Potion</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
